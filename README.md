@@ -1,5 +1,9 @@
 # svelte-chartjs
 
+## NOTE: This is a fork
+Fork and fixed for Svelte v4. Original: 
+https://github.com/SauravKanchan/svelte-chartjs/
+
 <img align="right" width="150" height="150" alt="svelte-chartjs logo" src="https://raw.githubusercontent.com/SauravKanchan/svelte-chartjs/master/assets/svelte-chartjs.png">
 
 Svelte wrapper for [chart.js](https://www.chartjs.org/) Open for PRs and contributions!
@@ -36,9 +40,6 @@ npm i svelte-chartjs chart.js
 ```
 
 <hr />
-
-Need an API to fetch data? Consider [Cube](https://cube.dev/?ref=eco-svelte-chartjs), an open-source API for data apps.
-
 <br />
 
 [![supported by Cube](https://user-images.githubusercontent.com/986756/154330861-d79ab8ec-aacb-4af8-9e17-1b28f1eccb01.svg)](https://cube.dev/?ref=eco-svelte-chartjs)
